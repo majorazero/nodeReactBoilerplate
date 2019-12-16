@@ -1,0 +1,19 @@
+{
+  "name": "node_react_boilerplate",
+  "version": "1.0.0",
+  "description": "This is a boilerplate for a node react project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majorazero/nodeReactBoilerplate.git"
+  },
+  "author": "Daniel Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majorazero/nodeReactBoilerplate/issues"
+  },
+  "homepage": "https://github.com/majorazero/nodeReactBoilerplate#readme"
+}
